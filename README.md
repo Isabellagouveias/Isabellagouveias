@@ -27,5 +27,5 @@ Oiii! Eu sou a Isa 🥰
 
 <img align="right" alt="Isa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/928361759109152778/928361759893512216/928363467394658315">
   
-![Snake animation](https://github.com/Isabellagouveias/)
+  ![Snake animation](https://github.com/isabellagouveias/isabellagouveias/blob/output/github-contribution-grid-snake.svg)
 </div>
