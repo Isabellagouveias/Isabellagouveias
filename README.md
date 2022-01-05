@@ -25,10 +25,10 @@ Oiii! Eu sou a Isa 🥰
   <a href="https://www.linkedin.com/in/isabella-gouveia-413bb3206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  
+<div>
   <img align="right" alt="Isa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/928361759109152778/928361759893512216/928363467394658315">
 </div>
-
- ![Snake animation](https://github.com/isabellagouveias/)
- 
+  
+<div>
+ ![Snake animation](https://github.com/Isabellagouveias/)
 </div>
