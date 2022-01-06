@@ -1,6 +1,8 @@
 Oiii! Eu sou a Isa 🥰
 - 🖥️ Hoje trabalho com Front-End
-- 🌱 Estudando linguagens de programação
+- 📚 Estudando linguagens de programação
+- 📧 E-mail: isabellagouveias@gmail.com
+- 🌱 LinkedIn : https://www.linkedin.com/in/isabella-gouveia-413bb3206/
 
 <div align="center">
   <a href="https://github.com/Isabellagouveias/">
