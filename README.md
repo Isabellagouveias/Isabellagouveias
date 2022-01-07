@@ -24,10 +24,9 @@ Oiii! Eu sou a Isa 🥰
   <a href="https://instagram.com/isabellagouveias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/isagouveia9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:isabellagouveias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabella-gouveia-413bb3206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="h![isabot](https://user-images.githubusercontent.com/83821360/148545946-9f4cda26-5d34-4f9f-b061-26daa63023a4.jpg)
+ttps://www.linkedin.com/in/isabella-gouveia-413bb3206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img align="right" alt="Isa-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/928361759109152778/928361759893512216/928363467394658315">
-  
   ![Snake animation](https://github.com/isabellagouveias/isabellagouveias/blob/output/github-contribution-grid-snake.svg)
 </div>
