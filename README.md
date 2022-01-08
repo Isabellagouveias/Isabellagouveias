@@ -27,6 +27,8 @@ Oiii! Eu sou a Isa 🥰
   <a href="h![isabot](https://user-images.githubusercontent.com/83821360/148545946-9f4cda26-5d34-4f9f-b061-26daa63023a4.jpg)
 ttps://www.linkedin.com/in/isabella-gouveia-413bb3206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  <br>
+  <img height="150em" src="https://media.discordapp.net/attachments/928361759893512216/929509554750890054/bot.jpg"/>
 
   ![Snake animation](https://github.com/isabellagouveias/isabellagouveias/blob/output/github-contribution-grid-snake.svg)
 </div>
