@@ -1,6 +1,8 @@
-# Isabella Gouveia
+<h3 align="center"> Hi, I'm Isabella 🦄</h3>
 
-## Olá pessoal 👋
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+- <p>More About me! <small><img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width= "50" heigth= "60"></small</p>
 
 - 🖥️ Hoje trabalho com Front End
 - 📚 Graduada em Análise e Desenvolvimento de Sistemas
@@ -8,7 +10,6 @@
 - 📧 E-mail: isabellagouveias@gmail.com
 - 🌱 LinkedIn: https://www.linkedin.com/in/isabellagouveias/
   
-## Hey there  👋
 
 - 🖥️ Today I work with Front End
 - 📚 Graduated in Systems Analysis and Development
@@ -27,6 +28,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
   
  ##
