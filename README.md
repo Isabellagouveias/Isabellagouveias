@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- <p>Sobre mim <small><img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width= "50" heigth= "60"></small</p>
+<p>Sobre mim <small><img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width= "50" heigth= "60"></small</p>
 
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas
 - 🎓 Pós-graduada em Engenharia de Software (concluído)
