@@ -19,6 +19,7 @@
 - 🎓 Pós-graduada em Engenharia de Software (concluído)
 - 📚 Cursando Pós-graduação em Desenvolvimento Web Full Stack (EAD)
 - 💻 Membra do DevClub, estudando HTML, CSS, JavaScript, TypeScript, Node.js, React e React Native
+- 💻 Membra do Sujeito Programador – FullStack Pro, estudando HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, NodeJS e Firebase
 - 📖 Estudando Inglês pela Universidade Federal de Goiás (UFG)
 - 📧 E-mail: isabellagouveias@gmail.com
 - 🌱 LinkedIn : https://www.linkedin.com/in/isabellagouveias/
